@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard</h1>
 <h3 align="center">I'm Frontend Developer 🇺🇦</h3>
 
-- 🔭 I’m currently working on [Balancyй](https://www.linkedin.com/company/balancyua-team/mycompany/)
+- 🧑🏻‍💻 I’m currently working on [Balancyй](https://www.linkedin.com/company/balancyua-team/mycompany/) as Frontend Developer.
 
 - 🌱 I’m currently learning **NextJs, Astro**
 
